@@ -4,7 +4,7 @@ In this repository there are some Python mini projects such real time applicatio
 in here you can find source code for all the python mini projects in my course and the voice assistant repository is a separate one ,you can find that in my profile.
 Thank you.
 
-These are the projects in this repository :
+These are the projects in this repository :  <br />
 **1.Digital Clock  <br />
 2.Image Compressor  <br />
 3.Tkinter Drawing  <br /> 
